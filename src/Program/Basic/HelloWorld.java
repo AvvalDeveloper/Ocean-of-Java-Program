@@ -1,6 +1,6 @@
-package Program.BasicJava;
+package Program.Basic;
 
-public class P1_HelloWorld {
+public class HelloWorld {
 
     public static void main(String[] args) {
 
