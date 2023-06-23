@@ -1,4 +1,4 @@
-### Basic ###
+### General ###
 
 HelloWorld - prints hello world
 HelloUser - prints hello (user's name)
@@ -7,9 +7,22 @@ HelloUser - prints hello (user's name)
 
 AddTwoNumbers - adds two numbers
 SubtractTwoNumbers - subtracts two numbers
-DivideTwoNumbers
-MultiplyTwoNumbers
-AddNumbers
-SubtractNumbers
-DivideNumbers
-MultiplyNumbers
+DivideTwoNumbers - divide two numbers
+MultiplyTwoNumbers - multiply two numbers
+AddNumbers - add multiple given numbers
+SubtractNumbers - subtract given numbers
+DivideNumbers - divide given numbers
+MultiplyNumbers - multiply multiple given numbers
+CalculateRemainder - calculate remainder
+
+### Number Operations ###
+
+FindAge - calculate age from given DOB and current date
+FindAge2
+FindFactorial
+FindPrimeNumber
+FindCompositeNumber
+FibonacciSeries
+FindPower
+FindRoot
+CheckLeapYear

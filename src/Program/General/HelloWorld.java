@@ -1,4 +1,4 @@
-package Program.Basic;
+package Program.General;
 
 public class HelloWorld {
 
